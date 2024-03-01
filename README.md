@@ -1,7 +1,7 @@
 # LRTL
 Low-Rank Tensor Learning for Incomplete Multiview Clustering
 
-J. Chen, S. Yang*, Z. Wang, and H. Mao, Efficient sparse representation for learning with high-dimensional data, IEEE Trans. Neural. Netw. Learn. Syst., vol. 34, no. 8, pp. 4208-4222, Aug. 2023.
+J. Chen, Z. Wang*, H. Mao, and X. Peng, Low-rank tensor learning for incomplete multiview clustering, IEEE Trans. Knowl. Data Eng., vol. 35, no. 11, pp. 11556-11569, Nov. 2023.
 
 1. Please run the file ‘run_main.m’ to obtain the clustering results.
 2. You may run the file ‘run_main_parameters.m’ to obtain the optimal parameters of LRTL on the datasets.
